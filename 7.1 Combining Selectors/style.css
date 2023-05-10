@@ -1,0 +1,19 @@
+/* Write your code here: */
+h1, h2{
+    color: blueviolet;
+}
+
+.box > p{
+    color: firebrick;
+}
+
+.list li{
+    color: blue;
+}
+
+ul p.done{
+    color: green;
+    text-shadow: 1px 1px greenyellow;
+    font-size: 0.7rem;
+}
+
